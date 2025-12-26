@@ -4,7 +4,7 @@ Gotlee-Neue is an open-source typeface designed for modern digital interfaces, b
 It balances clarity and character, making it suitable for both display and functional typography contexts.
 
 ## Styles
-- Gotlee-Neue Regular  
+- Gotlee-Neue Medium  
 *(Additional weights and styles may be added in future releases.)*
 
 ## Usage
